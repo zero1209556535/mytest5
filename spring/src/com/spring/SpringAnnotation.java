@@ -7,4 +7,8 @@ public class SpringAnnotation {
     void spring(){
         System.out.println("this is spring test");
     }
+
+    void spring2(){
+        System.out.println("this is spring test2");
+    }
 }
